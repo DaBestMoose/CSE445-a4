@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <!-- Example hotel from the assignment -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 1 -->
+  <Hotel Rating="4.5">
+    <Name>Marriott Phoenix Resort Tempe</Name>
+    <Phone>480-894-1400</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>300</Number>
+      <Street>S Priest Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 2 -->
+  <Hotel>
+    <Name>Hilton Garden Inn Times Square</Name>
+    <Phone>212-581-7000</Phone>
+    <Phone>800-445-8667</Phone>
+    <Address NearstAirport="LaGuardia">
+      <Number>790</Number>
+      <Street>8th Avenue</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 3 -->
+  <Hotel Rating="4.8">
+    <Name>The Ritz-Carlton</Name>
+    <Phone>415-296-7465</Phone>
+    <Address NearstAirport="San Francisco International">
+      <Number>600</Number>
+      <Street>Stockton St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94108</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 4 -->
+  <Hotel>
+    <Name>Holiday Inn Chicago Downtown</Name>
+    <Phone>312-787-6100</Phone>
+    <Address NearstAirport="O'Hare International">
+      <Number>506</Number>
+      <Street>W Harrison St</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60607</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 5 -->
+  <Hotel Rating="3.9">
+    <Name>The Bellagio</Name>
+    <Phone>702-693-7111</Phone>
+    <Phone>888-987-6667</Phone>
+    <Address NearstAirport="Harry Reid International">
+      <Number>3600</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 6 -->
+  <Hotel Rating="4.3">
+    <Name>Sheraton Boston Hotel</Name>
+    <Phone>617-236-2000</Phone>
+    <Address NearstAirport="Boston Logan International">
+      <Number>39</Number>
+      <Street>Dalton St</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02199</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 7 -->
+  <Hotel>
+    <Name>Hyatt Regency Miami</Name>
+    <Phone>305-358-1234</Phone>
+    <Phone>800-233-1234</Phone>
+    <Address NearstAirport="Miami International">
+      <Number>400</Number>
+      <Street>SE 2nd Ave</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33131</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 8 -->
+  <Hotel Rating="4.1">
+    <Name>Courtyard by Marriott Seattle Downtown</Name>
+    <Phone>206-625-1111</Phone>
+    <Address NearstAirport="Seattle-Tacoma International">
+      <Number>612</Number>
+      <Street>2nd Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98104</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 9 -->
+  <Hotel>
+    <Name>Omni Hotel at The Battery Atlanta</Name>
+    <Phone>678-567-7327</Phone>
+    <Address NearstAirport="Hartsfield-Jackson Atlanta International">
+      <Number>2625</Number>
+      <Street>Circle 75 Parkway</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30339</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Hotel 10 -->
+  <Hotel Rating="3.8">
+    <Name>Hampton Inn & Suites Denver Downtown</Name>
+    <Phone>303-864-8000</Phone>
+    <Phone>800-426-7866</Phone>
+    <Address NearstAirport="Denver International">
+      <Number>1845</Number>
+      <Street>Sherman St</Street>
+      <City>Denver</City>
+      <State>CO</State>
+      <Zip>80203</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
